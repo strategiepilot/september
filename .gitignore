@@ -1,0 +1,13 @@
+
+# Directories
+.instagramy_cache
+.ipynb_checkpoints
+telekomerleben
+
+# Files
+instagram-scraper.log
+Magenta.code-workspace
+ScrapeTelekomFBposts.ipynb
+ScrapeTelekomInsta.ipynb
+TelekomFacebookComments.csv
+TelekomFacebookPosts_19-05-2021.pkl
