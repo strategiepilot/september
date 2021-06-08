@@ -1,0 +1,9 @@
+xlrd
+spacy
+pandas
+numpy
+openpyxl
+sklearn
+matplotlib
+seaborn
+Ipython
